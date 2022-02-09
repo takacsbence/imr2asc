@@ -18,5 +18,7 @@ Time              Gyro_X     Gyro_Y     Gyro_Z    Accel_X    Accel_Y    Accel_Z
 390039.170268   -0.00047   -0.73116    0.29195   -0.40383    0.35982    9.83548
 
 Time: gps seconds of week [s]
+
 Gyro_[XYZ]: gyro measurements [deg/s]
+
 Accel_[XYZ]: acceleration measurements [m/s^2]
